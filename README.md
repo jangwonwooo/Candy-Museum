@@ -1,2 +1,2 @@
-# Candy-Museum
-html, css training(Static web page)
+# CandyMuseum
+html, css training(Static and Responsive web page)
